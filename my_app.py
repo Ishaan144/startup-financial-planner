@@ -114,6 +114,7 @@ if st.button('Generate personalized plan'):
                 Highlight the startup's strengths and weaknesses.
                 Give specific, practical suggestions to address the weaknesses.
                 Keep the answer concise but detailed.
+                Do not assume units.
                 """,
                 information
                 
