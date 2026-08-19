@@ -95,9 +95,10 @@ export GEMINI_API_KEY="your_api_key"
 python3 -m streamlit run my_app.py
 ```
 
+
 ## Live Demo
 
-Coming soon.
+[Open the Startup Financial Planner](https://startup-financial-planner-8kxxotf5nvwnnucxzfpjt7.streamlit.app/)
 
 ## Future Improvements
 
