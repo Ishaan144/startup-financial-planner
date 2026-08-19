@@ -3,7 +3,7 @@ import streamlit as st
 from google import genai
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-#client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
 
 # This function is used to display a success badge.
 def success():
